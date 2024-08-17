@@ -1,4 +1,4 @@
-# Electric_Vehicle_Data_Analysis_Dashboard using tableau
+# Electric_Vehicle_Data_Analysis_Dashboard using Tableau
 
 # Description :
 
